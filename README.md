@@ -26,8 +26,8 @@ Analysis:
 		
 	FUNCTIONS 
   
-  -void findSQsum(int s[], float sum)
-				(sum is a float because the sqrt function only accepts the float data type)
+  	-void findSQsum(int s[], float sum)
+		sum is a float because the sqrt function only accepts the float data type
 	
 	LOOPS 
   
